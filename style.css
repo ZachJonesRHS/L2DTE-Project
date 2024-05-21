@@ -1,5 +1,32 @@
 h1{
     color: pink;
-    background-color: blueviolet;
-    text-align:centre;
+    background-color: purple;
+    padding: 0;
+    text-align: center;
+    font-size: 100px;
+}
+
+h3{
+    color: pink;
+    background-color: floralwhite
+}
+p{
+    color: pink;
+    background-color: floralwhite;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: orchid;
+    padding: 0px;
+    margin: 0px;
+}
+.navbar a{
+    color: pink;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: darkorchid;
 }
